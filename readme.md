@@ -2,6 +2,14 @@
 
 This is a list of reputable open access journals in the biological sciences.
 
+## Where's the list
+
+Just click on the OA_journals.csv file, above. 
+
+Or enter this link into your browser:
+
+https://github.com/roblanf/Reputable-Open-Access-Journals/blob/master/OA_journals.csv
+
 ## Why?
 
 The open access movement has led to a lot of new journals. It's not always obvious where you should submit your work. This is an attempt to help: a curated and continuously updaetd list of open access journals we know to be reputable. 
